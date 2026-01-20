@@ -1,6 +1,6 @@
 {
   "name": "pi-oracle-production",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,9 +15,7 @@
     "lucide-react": "latest",
     "tailwind-merge": "latest",
     "clsx": "latest",
-    "@radix-ui/react-toast": "latest",
     "class-variance-authority": "latest",
-    "radix-ui": "latest",
     "framer-motion": "latest",
     "react-day-picker": "8.10.1",
     "date-fns": "latest"
