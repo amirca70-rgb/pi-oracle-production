@@ -1,6 +1,6 @@
 {
   "name": "pi-oracle-final",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -14,9 +14,7 @@
     "react-dom": "19.0.0",
     "lucide-react": "latest",
     "tailwind-merge": "latest",
-    "clsx": "latest",
-    "class-variance-authority": "latest",
-    "framer-motion": "latest"
+    "clsx": "latest"
   },
   "devDependencies": {
     "typescript": "^5",
